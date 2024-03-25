@@ -1,0 +1,3 @@
+root << EOF
+.x Read_ttY_data.C
+EOF

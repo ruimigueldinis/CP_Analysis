@@ -1,0 +1,3 @@
+root << EOF
+.x Read_ttH_data.C
+EOF
